@@ -1,0 +1,2 @@
+# white-walker
+Rails Practices
